@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, seja bem vindo!👋
 
-<!--
-**evelyn7130/evelyn7130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Evelyn, tenho 19 anos e aqui estão algumas coisas sobre mim:
 
-Here are some ideas to get you started:
+- 🔭 Atualmente faço parte da 20° turma de Soluções Digitais da Bosch
+- 🌱 Tenho certificado de programação em Python na SENAI "Roberto Mange"
+- 📖 Estou cursando Técnico em Desenvolvimento de Sistemas também no SENAI "Roberto Mange"
+- 💬 Qualquer dúvida pergunte-me
+- 😄 Sei tocar pandeiro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   Tecnologias e ferramentas até o momento
+
+
+ <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
+
+
