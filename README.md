@@ -6,7 +6,6 @@ Meu nome é Evelyn, tenho 19 anos e aqui estão algumas coisas sobre mim:
 - 🌱 Tenho certificado de programação em Python na SENAI "Roberto Mange"
 - 📖 Estou cursando Técnico em Desenvolvimento de Sistemas também no SENAI "Roberto Mange"
 - 💬 Qualquer dúvida pergunte-me
-- 😄 Sei tocar pandeiro
 
 
    Tecnologias e ferramentas até o momento
